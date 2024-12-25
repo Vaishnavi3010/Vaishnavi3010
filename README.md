@@ -87,9 +87,11 @@
 
 ###
 
-<br clear="both">
 
+<br clear="both">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Vaishnavi3010/Vaishnavi3010/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 ### 📌 Visitors Info
